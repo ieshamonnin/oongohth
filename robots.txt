@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeofoohoyi.cloud-explorer.org/sitemap.xml
